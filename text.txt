@@ -2,3 +2,4 @@ This is a text file
 already changed
 third commit
 this line is for a second branch
+fourth branch
